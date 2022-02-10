@@ -1,2 +1,2 @@
 # Target Test
- Teste de logica
+ Teste lógica de programação
